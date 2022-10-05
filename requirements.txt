@@ -1,0 +1,4 @@
+matplotlib==3.4.3
+numpy==1.17.4
+scipy==1.4.1
+streamlit==1.13.0
